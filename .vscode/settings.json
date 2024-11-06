@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "AbstractData.sln",
+    "csharp.debug.console": "externalTerminal"
+}

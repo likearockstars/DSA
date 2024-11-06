@@ -1,0 +1,14 @@
+D:\PC\C#\Estrutura de Dados\LinearSearch\bin\Debug\net8.0\LinearSearch.exe
+D:\PC\C#\Estrutura de Dados\LinearSearch\bin\Debug\net8.0\LinearSearch.deps.json
+D:\PC\C#\Estrutura de Dados\LinearSearch\bin\Debug\net8.0\LinearSearch.runtimeconfig.json
+D:\PC\C#\Estrutura de Dados\LinearSearch\bin\Debug\net8.0\LinearSearch.dll
+D:\PC\C#\Estrutura de Dados\LinearSearch\bin\Debug\net8.0\LinearSearch.pdb
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfoInputs.cache
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfo.cs
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\LinearSearch.dll
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\refint\LinearSearch.dll
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\LinearSearch.pdb
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\LinearSearch.genruntimeconfig.cache
+D:\PC\C#\Estrutura de Dados\LinearSearch\obj\Debug\net8.0\ref\LinearSearch.dll
