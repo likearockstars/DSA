@@ -1,0 +1,15 @@
+D:\PC\C#\Estrutura de Dados\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+D:\PC\C#\Estrutura de Dados\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+D:\PC\C#\Estrutura de Dados\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+D:\PC\C#\Estrutura de Dados\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+D:\PC\C#\Estrutura de Dados\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.sourcelink.json
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+D:\PC\C#\Estrutura de Dados\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll

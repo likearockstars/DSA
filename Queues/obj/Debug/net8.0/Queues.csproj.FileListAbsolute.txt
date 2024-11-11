@@ -1,0 +1,15 @@
+D:\PC\C#\Estrutura de Dados\Queues\bin\Debug\net8.0\Queues.exe
+D:\PC\C#\Estrutura de Dados\Queues\bin\Debug\net8.0\Queues.deps.json
+D:\PC\C#\Estrutura de Dados\Queues\bin\Debug\net8.0\Queues.runtimeconfig.json
+D:\PC\C#\Estrutura de Dados\Queues\bin\Debug\net8.0\Queues.dll
+D:\PC\C#\Estrutura de Dados\Queues\bin\Debug\net8.0\Queues.pdb
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.AssemblyInfoInputs.cache
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.AssemblyInfo.cs
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.csproj.CoreCompileInputs.cache
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.sourcelink.json
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.dll
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\refint\Queues.dll
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.pdb
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\Queues.genruntimeconfig.cache
+D:\PC\C#\Estrutura de Dados\Queues\obj\Debug\net8.0\ref\Queues.dll

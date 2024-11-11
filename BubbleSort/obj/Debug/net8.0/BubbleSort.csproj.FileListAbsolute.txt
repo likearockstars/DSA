@@ -1,0 +1,15 @@
+D:\PC\C#\Estrutura de Dados\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+D:\PC\C#\Estrutura de Dados\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+D:\PC\C#\Estrutura de Dados\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+D:\PC\C#\Estrutura de Dados\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+D:\PC\C#\Estrutura de Dados\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.sourcelink.json
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+D:\PC\C#\Estrutura de Dados\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll

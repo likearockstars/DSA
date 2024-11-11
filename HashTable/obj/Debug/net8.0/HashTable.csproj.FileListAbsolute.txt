@@ -1,0 +1,15 @@
+D:\PC\C#\Estrutura de Dados\HashTable\bin\Debug\net8.0\HashTable.exe
+D:\PC\C#\Estrutura de Dados\HashTable\bin\Debug\net8.0\HashTable.deps.json
+D:\PC\C#\Estrutura de Dados\HashTable\bin\Debug\net8.0\HashTable.runtimeconfig.json
+D:\PC\C#\Estrutura de Dados\HashTable\bin\Debug\net8.0\HashTable.dll
+D:\PC\C#\Estrutura de Dados\HashTable\bin\Debug\net8.0\HashTable.pdb
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfoInputs.cache
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfo.cs
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.csproj.CoreCompileInputs.cache
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.sourcelink.json
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.dll
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\refint\HashTable.dll
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.pdb
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\HashTable.genruntimeconfig.cache
+D:\PC\C#\Estrutura de Dados\HashTable\obj\Debug\net8.0\ref\HashTable.dll
