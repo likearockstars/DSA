@@ -1,0 +1,44 @@
+# Diretórios de build e arquivos temporários
+/target/
+/bin/
+/out/
+
+# Arquivos do Eclipse
+.project
+.classpath
+.settings/
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Arquivos do NetBeans
+nbproject/
+
+# Arquivos de dependências
+/lib/
+
+# Arquivos de configuração do sistema
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# Arquivos de pacotes gerados
+*.jar
+*.war
+*.ear
+
+# Arquivos do Java (bytecode) gerados
+*.class
+
+# Arquivos de backup
+*~
+*.bak
+*.swp
+
+# Arquivos de logs
+*.log
+
+# Diretórios temporários criados pelo editor (em sistemas Unix)
+*~
